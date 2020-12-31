@@ -1,0 +1,753 @@
+at: 2020-03-28 14:43:18.874442 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:43:23.239537 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:43:23.278515 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:43:29.538598 | Message from user: GLCC
+at: 2020-03-28 14:43:31.489957 | A cat was recognized in a picture
+at: 2020-03-28 14:43:32.457743 | Message from user: GLCC
+at: 2020-03-28 14:43:33.289338 | Message from user: GSOC
+at: 2020-03-28 14:43:33.397262 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 14:43:33.413253 | A cat was recognized in a picture
+at: 2020-03-28 14:45:36.447770 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:45:38.597499 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:45:39.767279 | A cat was recognized in a picture
+at: 2020-03-28 14:45:41.485845 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:45:41.736804 | A cat was recognized in a picture
+at: 2020-03-28 14:45:43.749336 | A cat was recognized in a picture
+at: 2020-03-28 14:45:45.763206 | A cat was recognized in a picture
+at: 2020-03-28 14:45:47.770764 | A cat was recognized in a picture
+at: 2020-03-28 14:45:49.789358 | A cat was recognized in a picture
+at: 2020-03-28 14:45:57.846404 | A cat was recognized in a picture
+at: 2020-03-28 14:45:57.918405 | A cat was recognized in a picture
+at: 2020-03-28 14:45:57.918405 | A cat was recognized in a picture
+at: 2020-03-28 14:45:57.918405 | Message from user: GLCC
+at: 2020-03-28 14:45:57.944404 | A cat was recognized in a picture
+at: 2020-03-28 14:45:59.846174 | A cat was recognized in a picture
+at: 2020-03-28 14:46:01.845695 | A cat was recognized in a picture
+at: 2020-03-28 14:46:02.515399 | Message from user: GSOC
+at: 2020-03-28 14:46:02.844202 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 14:48:04.417628 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:48:06.557727 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:48:08.704424 | A cat was recognized in a picture
+at: 2020-03-28 14:48:08.730410 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:48:08.743417 | Message from user: GLCC
+at: 2020-03-28 14:48:09.566736 | Message from user: GSOC
+at: 2020-03-28 14:48:09.668663 | A cat was recognized in a picture
+at: 2020-03-28 14:48:11.693426 | A cat was recognized in a picture
+at: 2020-03-28 14:48:13.699088 | A cat was recognized in a picture
+at: 2020-03-28 14:48:15.707720 | A cat was recognized in a picture
+at: 2020-03-28 14:48:17.734188 | A cat was recognized in a picture
+at: 2020-03-28 14:48:19.231056 | Message from user: STSX
+at: 2020-03-28 14:48:19.272021 | Message from user: GLCC
+at: 2020-03-28 14:48:19.747889 | A cat was recognized in a picture
+at: 2020-03-28 14:48:21.165225 | Message from user: GSOC
+at: 2020-03-28 14:48:21.761035 | A cat was recognized in a picture
+at: 2020-03-28 14:48:23.772599 | A cat was recognized in a picture
+at: 2020-03-28 14:48:25.792415 | A cat was recognized in a picture
+at: 2020-03-28 14:48:27.812373 | A cat was recognized in a picture
+at: 2020-03-28 14:48:29.810873 | A cat was recognized in a picture
+at: 2020-03-28 14:48:31.831536 | A cat was recognized in a picture
+at: 2020-03-28 14:48:33.835533 | A cat was recognized in a picture
+at: 2020-03-28 14:48:35.846745 | A cat was recognized in a picture
+at: 2020-03-28 14:48:37.880491 | A cat was recognized in a picture
+at: 2020-03-28 14:48:39.907370 | A cat was recognized in a picture
+at: 2020-03-28 14:48:41.967526 | A cat was recognized in a picture
+at: 2020-03-28 14:49:49.671839 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:49:53.956075 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:49:53.992057 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:49:55.063387 | A cat was recognized in a picture
+at: 2020-03-28 14:49:56.378353 | Message from user: GLCC
+at: 2020-03-28 14:49:56.994831 | A cat was recognized in a picture
+at: 2020-03-28 14:49:57.886709 | Message from user: GSOC
+at: 2020-03-28 14:49:59.001317 | A cat was recognized in a picture
+at: 2020-03-28 14:50:01.011058 | A cat was recognized in a picture
+at: 2020-03-28 14:50:03.016137 | A cat was recognized in a picture
+at: 2020-03-28 14:50:05.024937 | A cat was recognized in a picture
+at: 2020-03-28 14:50:06.891694 | Message from user: STSX
+at: 2020-03-28 14:50:06.943664 | Message from user: GLCC
+at: 2020-03-28 14:50:07.029605 | A cat was recognized in a picture
+at: 2020-03-28 14:50:09.046273 | A cat was recognized in a picture
+at: 2020-03-28 14:50:10.908451 | Message from user: GSOC
+at: 2020-03-28 14:50:11.057389 | A cat was recognized in a picture
+at: 2020-03-28 14:50:13.073864 | A cat was recognized in a picture
+at: 2020-03-28 14:51:01.195428 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:51:05.478091 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:51:07.631978 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:51:08.706926 | A cat was recognized in a picture
+at: 2020-03-28 14:51:10.580964 | Message from user: GLCC
+at: 2020-03-28 14:51:10.633922 | A cat was recognized in a picture
+at: 2020-03-28 14:51:12.164469 | Message from user: GSOC
+at: 2020-03-28 14:51:12.656307 | A cat was recognized in a picture
+at: 2020-03-28 14:51:14.653839 | A cat was recognized in a picture
+at: 2020-03-28 14:51:16.677372 | A cat was recognized in a picture
+at: 2020-03-28 14:51:18.689817 | A cat was recognized in a picture
+at: 2020-03-28 14:51:20.696277 | A cat was recognized in a picture
+at: 2020-03-28 14:51:21.908311 | Message from user: STSX
+at: 2020-03-28 14:51:21.942317 | Message from user: GLCC
+at: 2020-03-28 14:51:22.713028 | A cat was recognized in a picture
+at: 2020-03-28 14:51:24.674893 | Message from user: GSOC
+at: 2020-03-28 14:51:24.720913 | A cat was recognized in a picture
+at: 2020-03-28 14:51:26.735372 | A cat was recognized in a picture
+at: 2020-03-28 14:51:28.743063 | A cat was recognized in a picture
+at: 2020-03-28 14:51:30.769073 | A cat was recognized in a picture
+at: 2020-03-28 14:51:32.839023 | A cat was recognized in a picture
+at: 2020-03-28 14:51:34.909174 | A cat was recognized in a picture
+at: 2020-03-28 14:51:36.999050 | A cat was recognized in a picture
+at: 2020-03-28 14:51:39.063900 | A cat was recognized in a picture
+at: 2020-03-28 14:51:41.119212 | A cat was recognized in a picture
+at: 2020-03-28 14:51:41.689346 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 14:52:35.809531 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:52:37.966870 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:52:38.004847 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:52:38.737401 | Message from user: GLIP
+at: 2020-03-28 14:52:39.433860 | A cat was recognized in a picture
+at: 2020-03-28 14:52:41.307514 | A cat was recognized in a picture
+at: 2020-03-28 14:52:47.357941 | A cat was recognized in a picture
+at: 2020-03-28 14:52:47.357941 | A cat was recognized in a picture
+at: 2020-03-28 14:52:47.373932 | A cat was recognized in a picture
+at: 2020-03-28 14:52:49.386888 | A cat was recognized in a picture
+at: 2020-03-28 14:52:49.936132 | Message from user: GLCC
+at: 2020-03-28 14:52:51.394095 | A cat was recognized in a picture
+at: 2020-03-28 14:52:53.117013 | Message from user: GSOC
+at: 2020-03-28 14:52:53.404406 | A cat was recognized in a picture
+at: 2020-03-28 14:52:55.417160 | A cat was recognized in a picture
+at: 2020-03-28 14:52:56.851929 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 14:53:15.259189 | Message from user: STSX
+at: 2020-03-28 14:53:15.311203 | Message from user: GLCC
+at: 2020-03-28 14:54:15.545952 | User has disconnected
+at: 2020-03-28 14:54:27.238959 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:54:33.818435 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:54:35.993127 | Message from user: GLCC
+at: 2020-03-28 14:54:36.043098 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:54:36.845438 | Message from user: GSOC
+at: 2020-03-28 14:54:36.985359 | A cat was recognized in a picture
+at: 2020-03-28 14:54:38.914994 | A cat was recognized in a picture
+at: 2020-03-28 14:54:40.218616 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 14:55:18.917041 | Message from user: STSX
+at: 2020-03-28 14:55:18.988693 | Message from user: GLCC
+at: 2020-03-28 14:58:28.636936 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:58:28.675913 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:58:30.564833 | A cat was recognized in a picture
+at: 2020-03-28 14:58:33.433467 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:58:33.450457 | A cat was recognized in a picture
+at: 2020-03-28 14:58:34.483683 | A cat was recognized in a picture
+at: 2020-03-28 14:58:36.262182 | User has disconnected
+at: 2020-03-28 14:58:36.519669 | A cat was recognized in a picture
+at: 2020-03-28 14:58:38.599555 | A cat was recognized in a picture
+at: 2020-03-28 14:58:40.679502 | A cat was recognized in a picture
+at: 2020-03-28 14:58:42.754307 | A cat was recognized in a picture
+at: 2020-03-28 14:58:44.844494 | A cat was recognized in a picture
+at: 2020-03-28 14:58:46.029082 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:58:46.858725 | A cat was recognized in a picture
+at: 2020-03-28 14:58:47.546375 | Message from user: GLCC
+at: 2020-03-28 14:58:48.869359 | A cat was recognized in a picture
+at: 2020-03-28 14:58:49.325805 | Message from user: GSOC
+at: 2020-03-28 14:58:50.878543 | A cat was recognized in a picture
+at: 2020-03-28 14:58:52.887783 | A cat was recognized in a picture
+at: 2020-03-28 14:58:53.256572 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 14:59:07.410846 | User has disconnected
+at: 2020-03-28 14:59:41.889915 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 14:59:44.083625 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 14:59:44.107614 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 14:59:44.121604 | Message from user: GLCC
+at: 2020-03-28 14:59:44.896756 | Message from user: GSOC
+at: 2020-03-28 14:59:45.131609 | A cat was recognized in a picture
+at: 2020-03-28 14:59:47.060354 | A cat was recognized in a picture
+at: 2020-03-28 14:59:47.547814 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:00:03.057892 | User has disconnected
+at: 2020-03-28 15:00:15.249713 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:00:19.507057 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:00:19.578014 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:00:19.657968 | A cat was recognized in a picture
+at: 2020-03-28 15:00:21.521711 | A cat was recognized in a picture
+at: 2020-03-28 15:00:21.938470 | Message from user: GLCC
+at: 2020-03-28 15:00:22.434841 | Message from user: GSOC
+at: 2020-03-28 15:00:23.532438 | A cat was recognized in a picture
+at: 2020-03-28 15:00:25.543645 | A cat was recognized in a picture
+at: 2020-03-28 15:00:26.177739 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:00:46.864556 | User has disconnected
+at: 2020-03-28 15:01:23.620146 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:01:23.640218 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:01:25.379862 | A cat was recognized in a picture
+at: 2020-03-28 15:01:27.369602 | A cat was recognized in a picture
+at: 2020-03-28 15:01:30.147459 | A cat was recognized in a picture
+at: 2020-03-28 15:01:30.154456 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:01:31.338831 | Message from user: GLCC
+at: 2020-03-28 15:01:31.433764 | A cat was recognized in a picture
+at: 2020-03-28 15:01:31.815676 | Message from user: GSOC
+at: 2020-03-28 15:01:33.447907 | A cat was recognized in a picture
+at: 2020-03-28 15:01:35.415489 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:01:52.623583 | User has disconnected
+at: 2020-03-28 15:03:06.159909 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:03:10.406560 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:03:10.472523 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:03:10.576973 | A cat was recognized in a picture
+at: 2020-03-28 15:03:12.434620 | A cat was recognized in a picture
+at: 2020-03-28 15:03:12.519557 | Message from user: GLCC
+at: 2020-03-28 15:03:13.334775 | Message from user: GSOC
+at: 2020-03-28 15:03:14.440938 | A cat was recognized in a picture
+at: 2020-03-28 15:03:16.047083 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:03:28.146059 | Message from user: STSX
+at: 2020-03-28 15:03:28.217052 | Message from user: GLCC
+at: 2020-03-28 15:03:30.400135 | User has disconnected
+at: 2020-03-28 15:03:43.079865 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:03:45.283732 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:03:45.319714 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:03:46.458772 | A cat was recognized in a picture
+at: 2020-03-28 15:03:48.409583 | A cat was recognized in a picture
+at: 2020-03-28 15:03:49.843916 | Message from user: GLIP
+at: 2020-03-28 15:03:50.425664 | A cat was recognized in a picture
+at: 2020-03-28 15:03:52.430205 | A cat was recognized in a picture
+at: 2020-03-28 15:03:54.438960 | A cat was recognized in a picture
+at: 2020-03-28 15:04:00.412636 | A cat was recognized in a picture
+at: 2020-03-28 15:04:00.412636 | A cat was recognized in a picture
+at: 2020-03-28 15:04:00.492551 | A cat was recognized in a picture
+at: 2020-03-28 15:04:02.288045 | Message from user: GLCC
+at: 2020-03-28 15:04:02.515901 | A cat was recognized in a picture
+at: 2020-03-28 15:04:04.536626 | A cat was recognized in a picture
+at: 2020-03-28 15:04:04.621567 | Message from user: GSOC
+at: 2020-03-28 15:04:06.546901 | A cat was recognized in a picture
+at: 2020-03-28 15:04:07.550134 | Message from user: STSX
+at: 2020-03-28 15:04:07.597090 | Message from user: GLCC
+at: 2020-03-28 15:04:08.554742 | A cat was recognized in a picture
+at: 2020-03-28 15:04:08.897702 | Message from user: GSOC
+at: 2020-03-28 15:04:10.581908 | A cat was recognized in a picture
+at: 2020-03-28 15:04:12.595943 | A cat was recognized in a picture
+at: 2020-03-28 15:04:14.598811 | A cat was recognized in a picture
+at: 2020-03-28 15:04:16.623094 | A cat was recognized in a picture
+at: 2020-03-28 15:04:18.622842 | A cat was recognized in a picture
+at: 2020-03-28 15:04:20.637704 | A cat was recognized in a picture
+at: 2020-03-28 15:04:22.646892 | A cat was recognized in a picture
+at: 2020-03-28 15:04:28.840362 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:04:28.860433 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:04:30.559858 | A cat was recognized in a picture
+at: 2020-03-28 15:04:34.016971 | A cat was recognized in a picture
+at: 2020-03-28 15:04:34.041958 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:04:34.547667 | A cat was recognized in a picture
+at: 2020-03-28 15:04:36.543881 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:04:38.936082 | Message from user: GLCC
+at: 2020-03-28 15:04:42.786566 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:04:42.807554 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:04:45.859864 | Message from user: GLCC
+at: 2020-03-28 15:04:45.910823 | A cat was recognized in a picture
+at: 2020-03-28 15:04:45.959794 | Message from user: GLCC
+at: 2020-03-28 15:04:46.363938 | A cat was recognized in a picture
+at: 2020-03-28 15:04:47.242126 | Message from user: GSOC
+at: 2020-03-28 15:04:48.373582 | A cat was recognized in a picture
+at: 2020-03-28 15:04:50.331057 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:04:58.800236 | Message from user: STSX
+at: 2020-03-28 15:04:58.870248 | Message from user: GLCC
+at: 2020-03-28 15:05:03.960851 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:05:03.978840 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:05:06.892150 | A cat was recognized in a picture
+at: 2020-03-28 15:05:07.547866 | A cat was recognized in a picture
+at: 2020-03-28 15:05:07.923325 | Message from user: GLCC
+at: 2020-03-28 15:05:09.558673 | A cat was recognized in a picture
+at: 2020-03-28 15:05:11.247821 | Message from user: GSOC
+at: 2020-03-28 15:05:11.560628 | A cat was recognized in a picture
+at: 2020-03-28 15:05:13.567852 | A cat was recognized in a picture
+at: 2020-03-28 15:05:15.578000 | A cat was recognized in a picture
+at: 2020-03-28 15:05:17.586323 | A cat was recognized in a picture
+at: 2020-03-28 15:05:19.270195 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:07:06.064673 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:07:08.219174 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:07:09.248965 | A cat was recognized in a picture
+at: 2020-03-28 15:07:10.771620 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:07:11.200997 | A cat was recognized in a picture
+at: 2020-03-28 15:07:12.525384 | Message from user: GLCC
+at: 2020-03-28 15:07:13.208038 | A cat was recognized in a picture
+at: 2020-03-28 15:07:13.387934 | Message from user: GSOC
+at: 2020-03-28 15:07:15.229741 | A cat was recognized in a picture
+at: 2020-03-28 15:07:17.234281 | A cat was recognized in a picture
+at: 2020-03-28 15:07:19.249928 | A cat was recognized in a picture
+at: 2020-03-28 15:07:21.253321 | A cat was recognized in a picture
+at: 2020-03-28 15:07:23.260834 | A cat was recognized in a picture
+at: 2020-03-28 15:07:25.272311 | A cat was recognized in a picture
+at: 2020-03-28 15:07:27.279229 | A cat was recognized in a picture
+at: 2020-03-28 15:07:29.290277 | A cat was recognized in a picture
+at: 2020-03-28 15:07:31.303941 | A cat was recognized in a picture
+at: 2020-03-28 15:07:33.315835 | A cat was recognized in a picture
+at: 2020-03-28 15:07:35.322081 | A cat was recognized in a picture
+at: 2020-03-28 15:07:37.331410 | A cat was recognized in a picture
+at: 2020-03-28 15:07:39.338916 | A cat was recognized in a picture
+at: 2020-03-28 15:07:41.353310 | A cat was recognized in a picture
+at: 2020-03-28 15:07:43.359037 | A cat was recognized in a picture
+at: 2020-03-28 15:07:45.371489 | A cat was recognized in a picture
+at: 2020-03-28 15:07:47.378103 | A cat was recognized in a picture
+at: 2020-03-28 15:07:47.426077 | Message from user: STSX
+at: 2020-03-28 15:07:47.474065 | Message from user: GLCC
+at: 2020-03-28 15:07:49.344110 | Message from user: GSOC
+at: 2020-03-28 15:07:49.395068 | A cat was recognized in a picture
+at: 2020-03-28 15:07:51.419315 | A cat was recognized in a picture
+at: 2020-03-28 15:07:52.499440 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:15:22.830259 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:15:27.104220 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:15:27.144196 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:15:27.216155 | A cat was recognized in a picture
+at: 2020-03-28 15:15:29.122374 | A cat was recognized in a picture
+at: 2020-03-28 15:15:30.214355 | Message from user: GLCC
+at: 2020-03-28 15:15:31.111057 | A cat was recognized in a picture
+at: 2020-03-28 15:15:31.329674 | Message from user: GSOC
+at: 2020-03-28 15:15:33.120372 | A cat was recognized in a picture
+at: 2020-03-28 15:15:33.444236 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:15:46.279430 | User has disconnected
+at: 2020-03-28 15:18:05.530421 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:18:09.805273 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:18:09.846249 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:18:09.929202 | A cat was recognized in a picture
+at: 2020-03-28 15:18:11.820787 | A cat was recognized in a picture
+at: 2020-03-28 15:18:12.096666 | Message from user: GLCC
+at: 2020-03-28 15:18:12.765282 | Message from user: GSOC
+at: 2020-03-28 15:18:13.826610 | A cat was recognized in a picture
+at: 2020-03-28 15:18:15.073513 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:18:24.180214 | Message from user: STSX
+at: 2020-03-28 15:18:24.232787 | Message from user: GLCC
+at: 2020-03-28 15:18:28.854854 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:18:28.872844 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:18:30.490518 | A cat was recognized in a picture
+at: 2020-03-28 15:18:32.430501 | A cat was recognized in a picture
+at: 2020-03-28 15:18:34.549164 | A cat was recognized in a picture
+at: 2020-03-28 15:18:34.567152 | Message from user: GLCC
+at: 2020-03-28 15:18:36.449273 | A cat was recognized in a picture
+at: 2020-03-28 15:18:37.492390 | Message from user: GSOC
+at: 2020-03-28 15:18:38.483779 | A cat was recognized in a picture
+at: 2020-03-28 15:18:40.501390 | A cat was recognized in a picture
+at: 2020-03-28 15:20:27.652432 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:20:29.804817 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:20:31.120545 | A cat was recognized in a picture
+at: 2020-03-28 15:20:33.023014 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:20:33.097971 | A cat was recognized in a picture
+at: 2020-03-28 15:20:35.062742 | Message from user: GLCC
+at: 2020-03-28 15:20:35.107717 | A cat was recognized in a picture
+at: 2020-03-28 15:20:35.515574 | Message from user: GSOC
+at: 2020-03-28 15:20:37.122428 | A cat was recognized in a picture
+at: 2020-03-28 15:20:38.225451 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:20:40.459884 | Message from user: STSX
+at: 2020-03-28 15:20:40.533826 | Message from user: GLCC
+at: 2020-03-28 15:20:44.965002 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:20:44.983992 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:20:46.875552 | A cat was recognized in a picture
+at: 2020-03-28 15:20:50.029832 | A cat was recognized in a picture
+at: 2020-03-28 15:20:50.117781 | Message from user: GLCC
+at: 2020-03-28 15:20:50.749422 | A cat was recognized in a picture
+at: 2020-03-28 15:20:51.086650 | Message from user: GSOC
+at: 2020-03-28 15:20:52.760796 | A cat was recognized in a picture
+at: 2020-03-28 15:20:54.774406 | A cat was recognized in a picture
+at: 2020-03-28 15:20:56.789545 | A cat was recognized in a picture
+at: 2020-03-28 15:20:58.799506 | A cat was recognized in a picture
+at: 2020-03-28 15:21:00.810610 | A cat was recognized in a picture
+at: 2020-03-28 15:21:02.823744 | A cat was recognized in a picture
+at: 2020-03-28 15:21:04.835856 | A cat was recognized in a picture
+at: 2020-03-28 15:21:06.849363 | A cat was recognized in a picture
+at: 2020-03-28 15:21:08.900639 | A cat was recognized in a picture
+at: 2020-03-28 15:21:35.320990 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:21:37.505635 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:21:38.520506 | A cat was recognized in a picture
+at: 2020-03-28 15:21:40.006916 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:21:40.481645 | A cat was recognized in a picture
+at: 2020-03-28 15:21:42.496714 | A cat was recognized in a picture
+at: 2020-03-28 15:21:42.600653 | Message from user: GLCC
+at: 2020-03-28 15:21:43.351365 | Message from user: GSOC
+at: 2020-03-28 15:21:44.510470 | A cat was recognized in a picture
+at: 2020-03-28 15:21:46.521829 | A cat was recognized in a picture
+at: 2020-03-28 15:21:48.530380 | A cat was recognized in a picture
+at: 2020-03-28 15:21:49.794088 | Message from user: STSX
+at: 2020-03-28 15:21:49.829052 | Message from user: GLCC
+at: 2020-03-28 15:21:50.540646 | A cat was recognized in a picture
+at: 2020-03-28 15:21:52.551647 | A cat was recognized in a picture
+at: 2020-03-28 15:21:53.582311 | User has disconnected
+at: 2020-03-28 15:21:54.590830 | A cat was recognized in a picture
+at: 2020-03-28 15:21:55.980812 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:23:07.810905 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:23:09.961014 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:23:12.528819 | A cat was recognized in a picture
+at: 2020-03-28 15:23:12.586779 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:23:13.013535 | A cat was recognized in a picture
+at: 2020-03-28 15:23:14.518923 | Message from user: GLCC
+at: 2020-03-28 15:23:15.024624 | A cat was recognized in a picture
+at: 2020-03-28 15:23:15.576343 | Message from user: GSOC
+at: 2020-03-28 15:23:17.053384 | A cat was recognized in a picture
+at: 2020-03-28 15:23:19.060621 | A cat was recognized in a picture
+at: 2020-03-28 15:23:19.385264 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:23:28.515050 | Message from user: STSX
+at: 2020-03-28 15:23:28.567020 | Message from user: GLCC
+at: 2020-03-28 15:23:32.976440 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:23:32.995427 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:23:34.585517 | A cat was recognized in a picture
+at: 2020-03-28 15:23:36.534003 | A cat was recognized in a picture
+at: 2020-03-28 15:23:38.484085 | Message from user: GLCC
+at: 2020-03-28 15:23:38.537039 | A cat was recognized in a picture
+at: 2020-03-28 15:23:39.286625 | Message from user: GSOC
+at: 2020-03-28 15:23:40.550723 | A cat was recognized in a picture
+at: 2020-03-28 15:23:42.561712 | A cat was recognized in a picture
+at: 2020-03-28 15:23:44.567961 | A cat was recognized in a picture
+at: 2020-03-28 15:23:46.575627 | A cat was recognized in a picture
+at: 2020-03-28 15:23:48.588602 | A cat was recognized in a picture
+at: 2020-03-28 15:23:50.610803 | A cat was recognized in a picture
+at: 2020-03-28 15:23:51.340828 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:24:14.004242 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:24:14.019247 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:24:15.939999 | A cat was recognized in a picture
+at: 2020-03-28 15:24:17.884770 | A cat was recognized in a picture
+at: 2020-03-28 15:24:19.930029 | A cat was recognized in a picture
+at: 2020-03-28 15:24:22.600072 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:24:22.660022 | A cat was recognized in a picture
+at: 2020-03-28 15:24:24.014060 | A cat was recognized in a picture
+at: 2020-03-28 15:24:24.867584 | Message from user: GLCC
+at: 2020-03-28 15:24:25.630111 | Message from user: GSOC
+at: 2020-03-28 15:24:26.035881 | A cat was recognized in a picture
+at: 2020-03-28 15:24:28.057238 | A cat was recognized in a picture
+at: 2020-03-28 15:24:28.576954 | Message from user: STSX
+at: 2020-03-28 15:24:28.611919 | Message from user: GLCC
+at: 2020-03-28 15:24:30.062961 | A cat was recognized in a picture
+at: 2020-03-28 15:24:32.072429 | A cat was recognized in a picture
+at: 2020-03-28 15:24:32.782935 | Message from user: GSOC
+at: 2020-03-28 15:24:34.082929 | A cat was recognized in a picture
+at: 2020-03-28 15:24:36.097196 | A cat was recognized in a picture
+at: 2020-03-28 15:24:38.108717 | A cat was recognized in a picture
+at: 2020-03-28 15:27:30.333059 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:27:32.487600 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:27:33.347312 | A cat was recognized in a picture
+at: 2020-03-28 15:27:34.904795 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:27:35.327554 | A cat was recognized in a picture
+at: 2020-03-28 15:27:37.350305 | A cat was recognized in a picture
+at: 2020-03-28 15:27:39.277614 | Message from user: GLCC
+at: 2020-03-28 15:27:39.369562 | A cat was recognized in a picture
+at: 2020-03-28 15:27:40.366723 | Message from user: GSOC
+at: 2020-03-28 15:27:41.383224 | A cat was recognized in a picture
+at: 2020-03-28 15:27:43.386693 | A cat was recognized in a picture
+at: 2020-03-28 15:27:45.398256 | A cat was recognized in a picture
+at: 2020-03-28 15:27:45.535583 | Message from user: STSX
+at: 2020-03-28 15:27:45.575574 | Message from user: GLCC
+at: 2020-03-28 15:27:47.420228 | A cat was recognized in a picture
+at: 2020-03-28 15:27:48.010498 | Message from user: GSOC
+at: 2020-03-28 15:27:49.419773 | A cat was recognized in a picture
+at: 2020-03-28 15:27:51.428821 | A cat was recognized in a picture
+at: 2020-03-28 15:27:53.436264 | A cat was recognized in a picture
+at: 2020-03-28 15:27:55.449448 | A cat was recognized in a picture
+at: 2020-03-28 15:27:57.459690 | A cat was recognized in a picture
+at: 2020-03-28 15:27:59.476724 | A cat was recognized in a picture
+at: 2020-03-28 15:28:01.487650 | A cat was recognized in a picture
+at: 2020-03-28 15:28:03.506410 | A cat was recognized in a picture
+at: 2020-03-28 15:28:05.508983 | A cat was recognized in a picture
+at: 2020-03-28 15:28:07.518455 | A cat was recognized in a picture
+at: 2020-03-28 15:28:43.600301 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:28:45.767419 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:28:46.807634 | A cat was recognized in a picture
+at: 2020-03-28 15:28:48.350906 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:28:48.797878 | A cat was recognized in a picture
+at: 2020-03-28 15:28:50.807529 | A cat was recognized in a picture
+at: 2020-03-28 15:28:50.933469 | Message from user: GLCC
+at: 2020-03-28 15:28:51.398795 | Message from user: GSOC
+at: 2020-03-28 15:28:52.829421 | A cat was recognized in a picture
+at: 2020-03-28 15:28:54.840896 | A cat was recognized in a picture
+at: 2020-03-28 15:28:56.852352 | A cat was recognized in a picture
+at: 2020-03-28 15:28:58.884543 | A cat was recognized in a picture
+at: 2020-03-28 15:29:00.896787 | A cat was recognized in a picture
+at: 2020-03-28 15:29:01.743450 | Message from user: STSX
+at: 2020-03-28 15:29:01.784414 | Message from user: GLCC
+at: 2020-03-28 15:29:02.915648 | A cat was recognized in a picture
+at: 2020-03-28 15:29:04.666534 | Message from user: GSOC
+at: 2020-03-28 15:29:04.926368 | A cat was recognized in a picture
+at: 2020-03-28 15:29:06.939320 | A cat was recognized in a picture
+at: 2020-03-28 15:29:08.948359 | A cat was recognized in a picture
+at: 2020-03-28 15:30:26.468476 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:30:28.617420 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:30:30.757374 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:30:30.882302 | A cat was recognized in a picture
+at: 2020-03-28 15:30:32.758911 | A cat was recognized in a picture
+at: 2020-03-28 15:30:34.768525 | A cat was recognized in a picture
+at: 2020-03-28 15:30:36.605480 | Message from user: GLCC
+at: 2020-03-28 15:30:36.782951 | A cat was recognized in a picture
+at: 2020-03-28 15:30:38.434017 | Message from user: GSOC
+at: 2020-03-28 15:30:38.797794 | A cat was recognized in a picture
+at: 2020-03-28 15:30:40.817396 | A cat was recognized in a picture
+at: 2020-03-28 15:30:41.326761 | Message from user: STSX
+at: 2020-03-28 15:30:41.373736 | Message from user: GLCC
+at: 2020-03-28 15:30:42.820781 | A cat was recognized in a picture
+at: 2020-03-28 15:30:43.011670 | Message from user: GSOC
+at: 2020-03-28 15:30:44.825834 | A cat was recognized in a picture
+at: 2020-03-28 15:30:46.836835 | A cat was recognized in a picture
+at: 2020-03-28 15:31:28.095516 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:31:34.546579 | Message from user: GLCC
+at: 2020-03-28 15:31:37.004620 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:31:37.071582 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:31:39.793343 | Message from user: GLCC
+at: 2020-03-28 15:31:39.874896 | A cat was recognized in a picture
+at: 2020-03-28 15:31:40.670043 | Message from user: GSOC
+at: 2020-03-28 15:31:40.689024 | A cat was recognized in a picture
+at: 2020-03-28 15:31:42.699709 | A cat was recognized in a picture
+at: 2020-03-28 15:31:44.725844 | A cat was recognized in a picture
+at: 2020-03-28 15:31:46.723483 | A cat was recognized in a picture
+at: 2020-03-28 15:31:48.736462 | A cat was recognized in a picture
+at: 2020-03-28 15:31:50.747825 | A cat was recognized in a picture
+at: 2020-03-28 15:31:52.758517 | A cat was recognized in a picture
+at: 2020-03-28 15:31:53.682787 | Message from user: STSX
+at: 2020-03-28 15:31:53.722764 | Message from user: GLCC
+at: 2020-03-28 15:31:54.776657 | A cat was recognized in a picture
+at: 2020-03-28 15:31:56.794596 | A cat was recognized in a picture
+at: 2020-03-28 15:31:58.825089 | A cat was recognized in a picture
+at: 2020-03-28 15:32:00.830850 | A cat was recognized in a picture
+at: 2020-03-28 15:32:02.845186 | A cat was recognized in a picture
+at: 2020-03-28 15:32:03.194046 | Message from user: GSOC
+at: 2020-03-28 15:32:04.857684 | A cat was recognized in a picture
+at: 2020-03-28 15:32:06.866705 | A cat was recognized in a picture
+at: 2020-03-28 15:32:41.908500 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:32:44.057894 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:32:45.077935 | A cat was recognized in a picture
+at: 2020-03-28 15:32:47.067654 | A cat was recognized in a picture
+at: 2020-03-28 15:32:48.503863 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:32:49.112135 | A cat was recognized in a picture
+at: 2020-03-28 15:32:50.033732 | Message from user: GLCC
+at: 2020-03-28 15:32:50.862919 | Message from user: GSOC
+at: 2020-03-28 15:32:51.127797 | A cat was recognized in a picture
+at: 2020-03-28 15:32:53.153183 | A cat was recognized in a picture
+at: 2020-03-28 15:32:55.166746 | A cat was recognized in a picture
+at: 2020-03-28 15:32:57.182668 | A cat was recognized in a picture
+at: 2020-03-28 15:32:59.196092 | A cat was recognized in a picture
+at: 2020-03-28 15:33:01.200542 | A cat was recognized in a picture
+at: 2020-03-28 15:33:02.784121 | Message from user: STSX
+at: 2020-03-28 15:33:02.854086 | Message from user: GLCC
+at: 2020-03-28 15:33:03.219916 | A cat was recognized in a picture
+at: 2020-03-28 15:33:04.766024 | Message from user: GSOC
+at: 2020-03-28 15:33:05.228759 | A cat was recognized in a picture
+at: 2020-03-28 15:33:07.237668 | A cat was recognized in a picture
+at: 2020-03-28 15:53:04.319811 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:53:06.428745 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:53:07.788815 | A cat was recognized in a picture
+at: 2020-03-28 15:53:10.348846 | A cat was recognized in a picture
+at: 2020-03-28 15:53:10.361835 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:53:11.752215 | A cat was recognized in a picture
+at: 2020-03-28 15:53:11.907134 | Message from user: GLIP
+at: 2020-03-28 15:53:14.123372 | A cat was recognized in a picture
+at: 2020-03-28 15:53:15.766850 | A cat was recognized in a picture
+at: 2020-03-28 15:53:16.352626 | Message from user: GLCC
+at: 2020-03-28 15:53:17.283522 | Message from user: GSOC
+at: 2020-03-28 15:53:17.774336 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:53:17.785329 | A cat was recognized in a picture
+at: 2020-03-28 15:53:25.065182 | User has disconnected
+at: 2020-03-28 15:54:46.319377 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:54:48.463967 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:54:50.959371 | A cat was recognized in a picture
+at: 2020-03-28 15:54:50.977827 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:54:51.479286 | A cat was recognized in a picture
+at: 2020-03-28 15:54:53.489899 | A cat was recognized in a picture
+at: 2020-03-28 15:54:55.504013 | A cat was recognized in a picture
+at: 2020-03-28 15:54:57.407561 | Message from user: GLCC
+at: 2020-03-28 15:54:57.519509 | A cat was recognized in a picture
+at: 2020-03-28 15:54:58.071269 | Message from user: GSOC
+at: 2020-03-28 15:54:58.520996 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 15:56:54.200135 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 15:56:56.329338 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 15:56:57.369402 | A cat was recognized in a picture
+at: 2020-03-28 15:56:59.193587 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 15:56:59.334507 | A cat was recognized in a picture
+at: 2020-03-28 15:57:00.822405 | Message from user: GLCC
+at: 2020-03-28 15:57:01.341208 | A cat was recognized in a picture
+at: 2020-03-28 15:57:01.529159 | Message from user: GSOC
+at: 2020-03-28 15:57:02.342361 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 19:17:05.221111 | User with ip '127.0.0.1' has connected
+at: 2020-03-28 19:17:13.644485 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-28 19:17:13.670467 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-28 19:17:21.343130 | Message from user: GLCC
+at: 2020-03-28 19:17:22.084153 | Message from user: GSOC
+at: 2020-03-28 19:17:22.500898 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-28 19:17:31.351080 | User has disconnected
+at: 2020-03-30 18:33:11.839212 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:33:13.960608 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:33:16.083901 | A cat was recognized in a picture
+at: 2020-03-30 18:33:16.116982 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:33:20.631229 | Message from user: GLCC
+at: 2020-03-30 18:33:22.780319 | Message from user: GLCC
+at: 2020-03-30 18:33:23.269366 | Message from user: GSOC
+at: 2020-03-30 18:33:31.873740 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-30 18:34:53.421190 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:34:57.121400 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:34:57.137390 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:34:58.925786 | A cat was recognized in a picture
+at: 2020-03-30 18:35:00.797674 | A cat was recognized in a picture
+at: 2020-03-30 18:35:01.267250 | Message from user: GLCC
+at: 2020-03-30 18:35:01.985454 | Message from user: GSOC
+at: 2020-03-30 18:35:02.799975 | A cat was recognized in a picture
+at: 2020-03-30 18:35:04.851709 | A cat was recognized in a picture
+at: 2020-03-30 18:37:39.910531 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:37:44.162424 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:37:44.178407 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:37:45.994608 | A cat was recognized in a picture
+at: 2020-03-30 18:37:47.924649 | A cat was recognized in a picture
+at: 2020-03-30 18:37:49.937119 | A cat was recognized in a picture
+at: 2020-03-30 18:37:51.944367 | A cat was recognized in a picture
+at: 2020-03-30 18:37:53.969920 | A cat was recognized in a picture
+at: 2020-03-30 18:37:55.999802 | A cat was recognized in a picture
+at: 2020-03-30 18:37:58.170743 | A cat was recognized in a picture
+at: 2020-03-30 18:37:58.231768 | Message from user: GLCC
+at: 2020-03-30 18:38:00.033992 | A cat was recognized in a picture
+at: 2020-03-30 18:38:00.059022 | Message from user: GLIP
+at: 2020-03-30 18:38:02.048177 | A cat was recognized in a picture
+at: 2020-03-30 18:38:04.090680 | A cat was recognized in a picture
+at: 2020-03-30 18:38:04.155796 | Message from user: GLCC
+at: 2020-03-30 18:38:04.957600 | Message from user: GSOC
+at: 2020-03-30 18:38:06.111527 | A cat was recognized in a picture
+at: 2020-03-30 18:38:08.146436 | A cat was recognized in a picture
+at: 2020-03-30 18:38:09.271680 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-30 18:42:57.339055 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:42:59.259977 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:43:01.737815 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:43:07.777729 | Message from user: GLCC
+at: 2020-03-30 18:43:12.450893 | Message from user: GLCC
+at: 2020-03-30 18:43:13.217650 | Message from user: GSOC
+at: 2020-03-30 18:43:40.416784 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:43:42.538295 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:43:44.678180 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:43:49.463084 | Message from user: GLCC
+at: 2020-03-30 18:43:49.936048 | Message from user: GSOC
+at: 2020-03-30 18:44:41.869239 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:44:48.260812 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:44:48.277803 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:44:48.308786 | Message from user: GLCC
+at: 2020-03-30 18:44:49.136309 | Message from user: GSOC
+at: 2020-03-30 18:44:50.034797 | A cat was recognized in a picture
+at: 2020-03-30 18:44:51.917285 | A cat was recognized in a picture
+at: 2020-03-30 18:44:53.925818 | A cat was recognized in a picture
+at: 2020-03-30 18:44:55.936319 | A cat was recognized in a picture
+at: 2020-03-30 18:44:57.942097 | A cat was recognized in a picture
+at: 2020-03-30 18:45:00.518178 | A cat was recognized in a picture
+at: 2020-03-30 18:45:01.961028 | A cat was recognized in a picture
+at: 2020-03-30 18:45:04.020767 | A cat was recognized in a picture
+at: 2020-03-30 18:46:03.830650 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:46:08.081274 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:46:08.096265 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:46:08.872840 | Message from user: GLCC
+at: 2020-03-30 18:46:09.799242 | A cat was recognized in a picture
+at: 2020-03-30 18:46:11.408525 | Message from user: GSOC
+at: 2020-03-30 18:46:11.742323 | A cat was recognized in a picture
+at: 2020-03-30 18:46:13.752343 | A cat was recognized in a picture
+at: 2020-03-30 18:46:15.764756 | A cat was recognized in a picture
+at: 2020-03-30 18:46:17.777046 | A cat was recognized in a picture
+at: 2020-03-30 18:49:13.867883 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:49:15.989444 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:49:19.953010 | A cat was recognized in a picture
+at: 2020-03-30 18:49:21.959023 | A cat was recognized in a picture
+at: 2020-03-30 18:49:23.980634 | A cat was recognized in a picture
+at: 2020-03-30 18:49:26.033369 | A cat was recognized in a picture
+at: 2020-03-30 18:49:28.054651 | A cat was recognized in a picture
+at: 2020-03-30 18:49:31.415832 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:49:31.429824 | A cat was recognized in a picture
+at: 2020-03-30 18:49:32.154655 | A cat was recognized in a picture
+at: 2020-03-30 18:49:34.146183 | A cat was recognized in a picture
+at: 2020-03-30 18:49:37.851589 | A cat was recognized in a picture
+at: 2020-03-30 18:49:37.871607 | Message from user: GLCC
+at: 2020-03-30 18:49:38.199419 | A cat was recognized in a picture
+at: 2020-03-30 18:49:39.107504 | Message from user: GSOC
+at: 2020-03-30 18:49:40.212704 | A cat was recognized in a picture
+at: 2020-03-30 18:49:42.209285 | A cat was recognized in a picture
+at: 2020-03-30 18:49:44.218552 | A cat was recognized in a picture
+at: 2020-03-30 18:49:46.228978 | A cat was recognized in a picture
+at: 2020-03-30 18:49:48.238134 | A cat was recognized in a picture
+at: 2020-03-30 18:49:50.246208 | A cat was recognized in a picture
+at: 2020-03-30 18:49:52.258171 | A cat was recognized in a picture
+at: 2020-03-30 18:49:54.267155 | A cat was recognized in a picture
+at: 2020-03-30 18:49:56.279490 | A cat was recognized in a picture
+at: 2020-03-30 18:51:17.809843 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:51:22.448955 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:51:22.462948 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:51:23.064605 | Message from user: GLCC
+at: 2020-03-30 18:51:23.775441 | Message from user: GSOC
+at: 2020-03-30 18:51:28.696695 | Message from user: STSX
+at: 2020-03-30 18:51:28.740681 | Message from user: GLCC
+at: 2020-03-30 18:51:29.390614 | Message from user: GSOC
+at: 2020-03-30 18:51:39.266336 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-30 18:52:29.405991 | Unauthorised Camera client with ip '127.0.0.1' has tried to connect
+at: 2020-03-30 18:52:29.421615 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:52:31.195459 | A cat was recognized in a picture
+at: 2020-03-30 18:52:33.132579 | A cat was recognized in a picture
+at: 2020-03-30 18:52:35.169897 | A cat was recognized in a picture
+at: 2020-03-30 18:52:37.197895 | A cat was recognized in a picture
+at: 2020-03-30 18:52:39.235030 | A cat was recognized in a picture
+at: 2020-03-30 18:52:41.287786 | A cat was recognized in a picture
+at: 2020-03-30 18:56:39.902675 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:59:29.402577 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 18:59:31.546094 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 18:59:33.727981 | Message from user: GLCC
+at: 2020-03-30 18:59:38.030484 | Message from user: GSOC
+at: 2020-03-30 18:59:43.332469 | A cat was recognized in a picture
+at: 2020-03-30 18:59:49.373081 | A cat was recognized in a picture
+at: 2020-03-30 18:59:50.215949 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-30 18:59:59.975353 | Message from user: STSX
+at: 2020-03-30 19:00:00.019329 | Message from user: GLCC
+at: 2020-03-30 19:00:06.008618 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 19:00:07.857755 | Message from user: GLCC
+at: 2020-03-30 19:00:08.394605 | Message from user: GSOC
+at: 2020-03-30 19:02:11.429185 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 19:02:13.591212 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 19:02:13.679161 | A cat was recognized in a picture
+at: 2020-03-30 19:02:15.623263 | A cat was recognized in a picture
+at: 2020-03-30 19:02:18.570852 | A cat was recognized in a picture
+at: 2020-03-30 19:02:18.589863 | Message from user: GLCC
+at: 2020-03-30 19:02:19.637557 | Message from user: GSOC
+at: 2020-03-30 19:02:23.704909 | A cat was recognized in a picture
+at: 2020-03-30 19:02:25.719654 | A cat was recognized in a picture
+at: 2020-03-30 19:02:26.454214 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-30 19:02:32.410455 | Message from user: STSX
+at: 2020-03-30 19:02:32.442433 | Message from user: GLCC
+at: 2020-03-30 19:02:37.531976 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 19:02:37.935342 | Message from user: GLCC
+at: 2020-03-30 19:02:38.602095 | Message from user: GSOC
+at: 2020-03-30 19:05:40.832190 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 19:05:45.299035 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 19:05:51.570097 | Message from user: GLCC
+at: 2020-03-30 19:05:52.073367 | Message from user: GSOC
+at: 2020-03-30 19:06:10.874290 | Message from user: STSX
+at: 2020-03-30 19:06:17.211158 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-30 19:06:17.225148 | Message from user: GLCC
+at: 2020-03-30 19:06:28.828630 | Message from user: GLCC
+at: 2020-03-30 19:07:57.901075 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 19:07:59.380366 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 19:08:02.297995 | Message from user: GLCC
+at: 2020-03-30 19:08:06.121978 | Message from user: GSOC
+at: 2020-03-30 19:08:08.078280 | Message from user: STSX
+at: 2020-03-30 19:08:08.122238 | Message from user: GLCC
+at: 2020-03-30 19:08:23.046419 | Message from user: GSOC
+at: 2020-03-30 19:09:03.473726 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 19:09:06.462192 | User has disconnected
+at: 2020-03-30 19:09:09.182393 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 19:09:10.918315 | A cat was recognized in a picture
+at: 2020-03-30 19:09:12.876687 | A cat was recognized in a picture
+at: 2020-03-30 19:09:12.923565 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 19:09:17.830830 | Message from user: GLCC
+at: 2020-03-30 19:09:17.830830 | A cat was recognized in a picture
+at: 2020-03-30 19:09:18.714128 | Message from user: GSOC
+at: 2020-03-30 19:09:18.937043 | A cat was recognized in a picture
+at: 2020-03-30 19:09:20.966456 | A cat was recognized in a picture
+at: 2020-03-30 19:09:22.974622 | A cat was recognized in a picture
+at: 2020-03-30 19:09:26.531225 | Message from user: STSX
+at: 2020-03-30 19:09:26.569204 | Message from user: GLCC
+at: 2020-03-30 19:09:26.998959 | A cat was recognized in a picture
+at: 2020-03-30 19:09:28.863730 | Message from user: GSOC
+at: 2020-03-30 19:09:41.188493 | User has disconnected
+at: 2020-03-30 19:09:41.195510 | Camera client with the name: 'Desktop' has disconnected
+at: 2020-03-30 19:11:34.696210 | Camera client with ip '127.0.0.1' has connected
+at: 2020-03-30 19:11:38.494753 | A cat was recognized in a picture
+at: 2020-03-30 19:11:40.568324 | A cat was recognized in a picture
+at: 2020-03-30 19:11:42.635978 | A cat was recognized in a picture
+at: 2020-03-30 19:11:44.663297 | A cat was recognized in a picture
+at: 2020-03-30 19:11:46.699705 | A cat was recognized in a picture
+at: 2020-03-30 19:11:48.756382 | A cat was recognized in a picture
+at: 2020-03-30 19:11:50.837009 | A cat was recognized in a picture
+at: 2020-03-30 19:11:52.232735 | User with ip '127.0.0.1' has connected
+at: 2020-03-30 19:11:52.870052 | A cat was recognized in a picture
+at: 2020-03-30 19:11:54.903575 | A cat was recognized in a picture
+at: 2020-03-30 19:11:57.186131 | A cat was recognized in a picture
+at: 2020-03-30 19:11:57.187130 | Message from user: GLCC
+at: 2020-03-30 19:11:58.007438 | Message from user: GSOC
+at: 2020-03-30 19:11:58.934970 | A cat was recognized in a picture
+at: 2020-03-30 19:12:00.946286 | A cat was recognized in a picture
+at: 2020-03-30 19:12:01.024240 | Message from user: STSX
+at: 2020-03-30 19:12:01.056222 | Message from user: GLCC
+at: 2020-03-30 19:12:02.198306 | Message from user: GSOC
+at: 2020-03-30 19:12:02.951501 | A cat was recognized in a picture
+at: 2020-03-30 19:12:04.967493 | A cat was recognized in a picture
+at: 2020-03-30 19:12:06.982063 | A cat was recognized in a picture
+at: 2020-03-30 19:12:08.993064 | A cat was recognized in a picture
+at: 2020-03-30 19:12:11.109928 | A cat was recognized in a picture
+at: 2020-03-30 19:12:13.608661 | A cat was recognized in a picture
+at: 2020-03-30 19:12:13.862273 | Camera client with the name: 'Desktop' has disconnected

@@ -1,0 +1,284 @@
+at: 2020-03-28 12:54:13.245233 | Connected to manager
+at: 2020-03-28 12:54:14.741449 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:54:18.373051 | Next was pressed while in: choosing_photo
+at: 2020-03-28 12:54:19.680909 | Photo with id: 13 was chosen
+at: 2020-03-28 12:54:26.277187 | Back was pressed while in: main
+at: 2020-03-28 12:54:26.939456 | Exit was pressed while in: main_
+at: 2020-03-28 12:54:35.545394 | Connected to manager
+at: 2020-03-28 12:54:37.262434 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:54:59.915484 | Connected to manager
+at: 2020-03-28 12:55:01.738785 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:55:02.847541 | Next was pressed while in: choosing_photo
+at: 2020-03-28 12:55:03.850536 | Photo with id: 13 was chosen
+at: 2020-03-28 12:55:07.783819 | Back was pressed while in: main
+at: 2020-03-28 12:55:08.293672 | Exit was pressed while in: main_
+at: 2020-03-28 12:55:09.745355 | Connected to manager
+at: 2020-03-28 12:55:10.933200 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:56:21.905535 | Connected to manager
+at: 2020-03-28 12:56:23.315484 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:56:24.578330 | Next was pressed while in: choosing_photo
+at: 2020-03-28 12:56:25.099652 | Photo with id: 13 was chosen
+at: 2020-03-28 12:56:28.214596 | Back was pressed while in: main
+at: 2020-03-28 12:56:28.691348 | Exit was pressed while in: main_
+at: 2020-03-28 12:56:30.707766 | Connected to manager
+at: 2020-03-28 12:56:32.494255 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:57:20.945616 | Connected to manager
+at: 2020-03-28 12:57:22.518408 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:57:26.207541 | Next was pressed while in: choosing_photo
+at: 2020-03-28 12:57:26.754944 | Photo with id: 13 was chosen
+at: 2020-03-28 12:57:31.280676 | Back was pressed while in: main
+at: 2020-03-28 12:57:32.367055 | Exit was pressed while in: main_
+at: 2020-03-28 12:57:34.265472 | Connected to manager
+at: 2020-03-28 12:57:36.053530 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:58:25.035523 | Connected to manager
+at: 2020-03-28 12:58:26.621705 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:58:31.293096 | Back was pressed while in: main
+at: 2020-03-28 12:58:31.463984 | Exit was pressed while in: main_
+at: 2020-03-28 12:58:34.385526 | Connected to manager
+at: 2020-03-28 12:58:37.420918 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 12:59:49.295831 | Connected to manager
+at: 2020-03-28 12:59:51.725761 | Exit was pressed while in: main_
+at: 2020-03-28 13:01:48.638000 | Connected to manager
+at: 2020-03-28 13:01:54.489741 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 13:02:52.178966 | Connected to manager
+at: 2020-03-28 13:02:56.296342 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 13:02:58.211146 | back was pressed while in: main
+at: 2020-03-28 13:02:59.411377 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 13:03:15.363249 | Connected to manager
+at: 2020-03-28 13:03:16.804189 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 13:03:17.909460 | Back was pressed while in: main
+at: 2020-03-28 13:03:18.778165 | Exit was pressed while in: main_
+at: 2020-03-28 13:04:03.403620 | Connected to manager
+at: 2020-03-28 13:04:06.678217 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 13:04:57.446671 | Connected to manager
+at: 2020-03-28 13:04:59.005620 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 13:05:52.866459 | Connected to manager
+at: 2020-03-28 13:05:57.397400 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 13:06:01.773404 | Back was pressed while in: main
+at: 2020-03-28 13:06:03.152409 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 13:06:06.961896 | Connected to manager
+at: 2020-03-28 13:09:46.708634 | Connected to manager
+at: 2020-03-28 13:09:48.470978 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 13:09:54.172699 | Photo with id: 11 was chosen
+at: 2020-03-28 13:09:56.745710 | Next was pressed while in: choosing_photo
+at: 2020-03-28 13:09:57.288401 | Photo with id: 13 was chosen
+at: 2020-03-28 13:10:19.873666 | Connected to manager
+at: 2020-03-28 13:10:21.360924 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 13:10:22.289565 | Next was pressed while in: choosing_photo
+at: 2020-03-28 13:10:22.790071 | Photo with id: 13 was chosen
+at: 2020-03-28 14:43:18.827602 | Connected to manager
+at: 2020-03-28 14:43:25.236272 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:43:31.490971 | back was pressed while in: choosing_live_camera
+at: 2020-03-28 14:43:32.422768 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:43:33.310309 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:45:39.287607 | Connected to manager
+at: 2020-03-28 14:45:50.025239 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:46:02.536388 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:48:04.787745 | Connected to manager
+at: 2020-03-28 14:48:08.703435 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:48:09.587709 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:48:19.231056 | Back was pressed while in: live_video
+at: 2020-03-28 14:48:21.185227 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:49:47.539547 | Connected to manager
+at: 2020-03-28 14:49:54.232918 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:49:57.908699 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:50:06.891694 | Back was pressed while in: live_video
+at: 2020-03-28 14:50:10.929433 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:50:59.059554 | Connected to manager
+at: 2020-03-28 14:51:10.541936 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:51:12.185469 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:51:21.908311 | Back was pressed while in: live_video
+at: 2020-03-28 14:51:24.695896 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:52:35.099465 | Connected to manager
+at: 2020-03-28 14:52:38.699424 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 14:52:42.340945 | Back was pressed while in: choosing_photo
+at: 2020-03-28 14:52:49.901152 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:52:53.138000 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:53:15.259189 | Back was pressed while in: live_video
+at: 2020-03-28 14:54:27.219396 | Connected to manager
+at: 2020-03-28 14:54:32.183138 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:54:36.870426 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:55:18.917041 | Back was pressed while in: live_video
+at: 2020-03-28 14:58:31.216461 | Connected to manager
+at: 2020-03-28 14:58:45.979792 | Connected to manager
+at: 2020-03-28 14:58:47.506387 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:58:49.358786 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 14:59:40.289736 | Connected to manager
+at: 2020-03-28 14:59:44.047644 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 14:59:44.923728 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:00:16.179591 | Connected to manager
+at: 2020-03-28 15:00:21.903492 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:00:22.456817 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:01:27.969669 | Connected to manager
+at: 2020-03-28 15:01:31.307813 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:01:31.840645 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:03:06.379950 | Connected to manager
+at: 2020-03-28 15:03:12.489579 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:03:13.355763 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:03:28.146059 | Back was pressed while in: mid_video_camera_dc
+at: 2020-03-28 15:03:39.599963 | Connected to manager
+at: 2020-03-28 15:03:49.808935 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 15:03:54.981812 | Back was pressed while in: choosing_photo
+at: 2020-03-28 15:04:02.220068 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:04:04.642544 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:04:07.550134 | Back was pressed while in: live_video
+at: 2020-03-28 15:04:08.917675 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:04:15.324119 | Back was pressed while in: live_video
+at: 2020-03-28 15:04:31.880023 | Connected to manager
+at: 2020-03-28 15:04:38.896104 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:04:43.716034 | Refresh was pressed while in: choose_live_camera
+at: 2020-03-28 15:04:45.921816 | Refresh was pressed while in: choose_live_camera
+at: 2020-03-28 15:04:47.263125 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:04:58.800236 | Back was pressed while in: mid_video_camera_dc
+at: 2020-03-28 15:05:04.667446 | back was pressed while in: choosing_live_camera
+at: 2020-03-28 15:05:07.891328 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:05:11.268794 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:05:13.591838 | Back was pressed while in: mid_video_camera_dc
+at: 2020-03-28 15:07:08.619129 | Connected to manager
+at: 2020-03-28 15:07:12.484423 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:07:13.413919 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:07:47.426077 | Back was pressed while in: live_video
+at: 2020-03-28 15:07:49.364099 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:15:23.300487 | Connected to manager
+at: 2020-03-28 15:15:30.184358 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:15:31.349647 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:18:06.510577 | Connected to manager
+at: 2020-03-28 15:18:12.060683 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:18:12.787269 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:18:24.180214 | Back was pressed while in: mid_video_camera_dc
+at: 2020-03-28 15:18:32.928253 | Refresh was pressed while in: choose_live_camera
+at: 2020-03-28 15:18:37.516364 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:20:30.880966 | Connected to manager
+at: 2020-03-28 15:20:35.029774 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:20:35.540560 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:20:40.459884 | Back was pressed while in: live_video
+at: 2020-03-28 15:20:47.899646 | Refresh was pressed while in: choose_live_camera
+at: 2020-03-28 15:20:51.117633 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:21:37.860664 | Connected to manager
+at: 2020-03-28 15:21:42.570681 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:21:43.372353 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:21:49.794088 | Back was pressed while in: live_video
+at: 2020-03-28 15:23:10.392962 | Connected to manager
+at: 2020-03-28 15:23:14.477951 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:23:15.596330 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:23:28.515050 | Back was pressed while in: mid_video_camera_dc
+at: 2020-03-28 15:23:36.319999 | Refresh was pressed while in: choose_live_camera
+at: 2020-03-28 15:23:39.313594 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:24:20.460056 | Connected to manager
+at: 2020-03-28 15:24:24.836605 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:24:25.651099 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:24:28.576954 | Back was pressed while in: live_video
+at: 2020-03-28 15:24:32.805907 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:27:32.757244 | Connected to manager
+at: 2020-03-28 15:27:39.237638 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:27:40.387683 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:27:45.535583 | Back was pressed while in: live_video
+at: 2020-03-28 15:27:48.032498 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:27:55.201568 | Back was pressed while in: live_video
+at: 2020-03-28 15:28:46.197511 | Connected to manager
+at: 2020-03-28 15:28:50.898494 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:28:51.418773 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:29:01.743450 | Back was pressed while in: live_video
+at: 2020-03-28 15:29:04.686504 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:30:27.477666 | Connected to manager
+at: 2020-03-28 15:30:36.567502 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:30:38.455988 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:30:41.326761 | Back was pressed while in: live_video
+at: 2020-03-28 15:30:43.041654 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:31:28.068379 | Connected to manager
+at: 2020-03-28 15:31:32.376958 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:31:37.643255 | Refresh was pressed while in: choose_live_camera
+at: 2020-03-28 15:31:40.697020 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:31:53.682787 | Back was pressed while in: live_video
+at: 2020-03-28 15:32:03.217016 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:32:06.716790 | Back was pressed while in: live_video
+at: 2020-03-28 15:32:46.347791 | Connected to manager
+at: 2020-03-28 15:32:50.000751 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:32:50.882892 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:33:02.784121 | Back was pressed while in: live_video
+at: 2020-03-28 15:33:04.799004 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:53:08.149132 | Connected to manager
+at: 2020-03-28 15:53:11.875152 | See photos was pressed while in: build_choose_photo
+at: 2020-03-28 15:53:15.277087 | Back was pressed while in: choosing_photo
+at: 2020-03-28 15:53:16.320627 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:53:17.308494 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:54:48.819134 | Connected to manager
+at: 2020-03-28 15:54:57.368587 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:54:58.095240 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 15:56:57.029467 | Connected to manager
+at: 2020-03-28 15:57:00.791396 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 15:57:01.554135 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-28 19:17:05.170828 | Connected to manager
+at: 2020-03-28 19:17:21.301109 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-28 19:17:22.109122 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:33:12.340512 | Connected to manager
+at: 2020-03-30 18:33:18.804917 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:33:21.913335 | back was pressed while in: choosing_live_camera
+at: 2020-03-30 18:33:22.749294 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:33:23.292337 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:34:53.402867 | Connected to manager
+at: 2020-03-30 18:34:59.642822 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:35:02.010425 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:37:39.892011 | Connected to manager
+at: 2020-03-30 18:37:56.542588 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:37:59.124057 | back was pressed while in: choosing_live_camera
+at: 2020-03-30 18:38:00.019999 | See photos was pressed while in: build_choose_photo
+at: 2020-03-30 18:38:03.353830 | Back was pressed while in: choosing_photo
+at: 2020-03-30 18:38:04.120785 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:38:04.979574 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:42:59.582880 | Connected to manager
+at: 2020-03-30 18:43:04.108017 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:43:11.514534 | back was pressed while in: choosing_live_camera
+at: 2020-03-30 18:43:12.419823 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:43:13.240621 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:43:42.268660 | Connected to manager
+at: 2020-03-30 18:43:49.432059 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:43:49.959004 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:44:41.841784 | Connected to manager
+at: 2020-03-30 18:44:47.788001 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:44:49.159296 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:46:03.813267 | Connected to manager
+at: 2020-03-30 18:46:08.840858 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:46:11.430500 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:49:29.258060 | Connected to manager
+at: 2020-03-30 18:49:37.825605 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:49:39.131477 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:51:17.796694 | Connected to manager
+at: 2020-03-30 18:51:23.031634 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:51:23.794414 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:51:28.696695 | Back was pressed while in: live_video
+at: 2020-03-30 18:51:29.412601 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:59:29.389924 | Connected to manager
+at: 2020-03-30 18:59:33.684029 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 18:59:38.090453 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 18:59:59.975353 | Back was pressed while in: mid_video_camera_dc
+at: 2020-03-30 19:00:07.825746 | Refresh was pressed while in: choose_live_camera
+at: 2020-03-30 19:00:08.415577 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:02:11.429185 | Connected to manager
+at: 2020-03-30 19:02:15.186999 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 19:02:19.658541 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:02:32.410455 | Back was pressed while in: live_video
+at: 2020-03-30 19:02:37.904359 | Refresh was pressed while in: choose_live_camera
+at: 2020-03-30 19:02:38.626083 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:05:40.817671 | Connected to manager
+at: 2020-03-30 19:05:51.538114 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 19:05:52.092353 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:06:10.874290 | Back was pressed while in: live_video
+at: 2020-03-30 19:06:28.038469 | back was pressed while in: choosing_live_camera
+at: 2020-03-30 19:06:28.797590 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 19:07:57.885849 | Connected to manager
+at: 2020-03-30 19:08:02.266013 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 19:08:06.141963 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:08:08.078280 | Back was pressed while in: live_video
+at: 2020-03-30 19:08:23.068390 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:09:03.450447 | Connected to manager
+at: 2020-03-30 19:09:12.907944 | Connected to manager
+at: 2020-03-30 19:09:14.133310 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 19:09:18.740112 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:09:26.532226 | Back was pressed while in: live_video
+at: 2020-03-30 19:09:28.891716 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:11:50.084233 | Connected to manager
+at: 2020-03-30 19:11:53.640505 | Watch live camera was pressed while in: choose_live_camera
+at: 2020-03-30 19:11:58.027410 | Camera with name of: Desktop, Was chosen to watch live video
+at: 2020-03-30 19:12:01.024240 | Back was pressed while in: live_video
+at: 2020-03-30 19:12:02.230288 | Camera with name of: Desktop, Was chosen to watch live video
